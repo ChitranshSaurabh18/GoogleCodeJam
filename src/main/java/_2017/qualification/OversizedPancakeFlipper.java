@@ -7,12 +7,13 @@ import java.io.InputStreamReader;
 /**
  * Problem Id: Problem A
  * Problem Name: Oversized Pancake Flipper
+ * Year and round: 2017, Qualification Round
  * Problem URL: https://code.google.com/codejam/contest/3264486/dashboard
  *
  * Make sure you rename the class to Solution and file to Solution.java before submitting
  * Accepted for both small and large inputs
  *
- * @author Saurabh, Chitransh
+ * @author <a href="mailto:chitransh.saurabh18@gmail.com"> Saurabh, Chitransh </a>
  */
 public class OversizedPancakeFlipper {
 

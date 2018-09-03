@@ -7,10 +7,10 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * Problem Id: Problem C
- * Problem Name: Bathroom Stalls
+ * Problem Id: Problem A
+ * Problem Name: Counting Sheep
  * Year and round: 2016, Qualification Round
- * Problem URL: https://code.google.com/codejam/contest/3264486/dashboard#s=p2
+ * Problem URL: https://code.google.com/codejam/contest/6254486/dashboard#s=p0
  *
  * Make sure you rename the class to Solution and file to Solution.java before submitting
  * Accepted for both small and large inputs
